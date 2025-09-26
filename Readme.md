@@ -1,7 +1,7 @@
 
 # Palm Heights × H&M HOME Collaboration Website
 
- [**Live Website**][(https://el-shayah-task-git-master-gannamohameds-projects.vercel.app/)](https://el-shayah-task.vercel.app/)   |    [**Figma Design**](https://www.figma.com/design/nUdsMBxLEjqdmZiSQYeQfX/Ganna-Mohamed---Elshayah-Task?node-id=0-1&t=1FGbAr2wQhpLQEmN-1_)
+ [**Live Website**](https://el-shayah-task.vercel.app/)   |    [**Figma Design**](https://www.figma.com/design/nUdsMBxLEjqdmZiSQYeQfX/Ganna-Mohamed---Elshayah-Task?node-id=0-1&t=1FGbAr2wQhpLQEmN-1_)
 
 ---
 
